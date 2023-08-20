@@ -8,7 +8,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="40"/>&nbsp;
   <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/drf.png" title="DRF" alt="DRF" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="50"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/flask.png" title="flask" alt="flask" width="70" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="70" height="70"/>&nbsp;
   <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/sqlalchemy.png" title="sqlalchemy" alt="sqlalchemy" width="90" height="40"/>&nbsp;
