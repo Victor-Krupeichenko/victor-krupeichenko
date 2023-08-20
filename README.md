@@ -6,7 +6,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/drf.png" title="DRF" alt="DRF" width="90" height="50"/>&nbsp;
+  <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/drf.png" title="DRF" alt="DRF" width="90" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/flask.png" title="flask" alt="flask" width="90" height="45"/>&nbsp;  
