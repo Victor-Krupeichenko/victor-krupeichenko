@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="70" height="70"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/sqlalchemy.png" title="sqlalchemy" alt="sqlalchemy" width="50" height="80"/>&nbsp;
+  <img src="https://github.com/Victor-Krupeichenko/victor-krupeichenko/blob/main/assets/sqlalchemy.png" title="sqlalchemy" alt="sqlalchemy" width="80" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;
