@@ -12,7 +12,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-COLOR?style=flat-square&logo=bootstrap)
   ![Celery](https://img.shields.io/badge/-Celery-COLOR?style=flat-square&logo=Celery)
   ![Git](https://img.shields.io/badge/-Git-COLOR?style=flat-square&logo=git)
-  ![Docker](https://img.shields.io/badge/-Docker-COLOR?style=flat-square&logo=docker)
+  ![Docker](https://img.shields.io/badge/-Docker-1de4f2?style=flat-square&logo=docker)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-COLOR?style=flat-square&logo=postgresql)
   ![Redis](https://img.shields.io/badge/-Redis-COLOR?style=flat-square&logo=redis)
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-COLOR?style=flat-square&logo=sqlalchemy)
