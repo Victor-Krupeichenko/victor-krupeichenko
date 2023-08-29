@@ -3,9 +3,9 @@
 ## I am a backend developer in Python
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>  
-  ![Python]<img src="https://img.shields.io/badge/-<Python>-<COLOR>"/>&nbsp;
-</div>
+
+  ![Python](https://img.shields.io/badge/-<Python>-<COLOR>)
+
 
 
 Follow Me
