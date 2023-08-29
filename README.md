@@ -16,6 +16,8 @@
   ![Postgresql](https://img.shields.io/badge/-Postgresql-COLOR?style=for-the-badge&logo=postgresql)
   ![Redis](https://img.shields.io/badge/-Redis-COLOR?style=for-the-badge&logo=redis)
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-COLOR?style=for-the-badge&logo=sqlalchemy)
+  ![Alembic](https://img.shields.io/badge/-Alembic-COLOR?style=for-the-badge&logo=Alembic)
+  ![Pydantic](https://img.shields.io/badge/-Pydantic-COLOR?style=for-the-badge&logo=Pydantic)
   
 
 
