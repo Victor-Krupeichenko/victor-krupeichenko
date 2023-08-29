@@ -8,7 +8,7 @@
   ![Fkask](https://img.shields.io/badge/-Flask-COLOR?style=flat-square&logo=flask)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-86fa3e?style=flat-square&logo=fastapi)
   ![Django](https://img.shields.io/badge/-Django-COLOR?style=flat-square&logo=django)
-  ![Django Rest](https://img.shields.io/badge/-DjangoRest-COLOR?style=flat-square&logo=django-rest)
+  ![Django Rest](https://img.shields.io/badge/-DjangoRest-fa32aa?style=flat-square&logo=django-rest)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-COLOR?style=flat-square&logo=bootstrap)
   ![Celery](https://img.shields.io/badge/-Celery-COLOR?style=flat-square&logo=Celery)
   ![Git](https://img.shields.io/badge/-Git-COLOR?style=flat-square&logo=git)
