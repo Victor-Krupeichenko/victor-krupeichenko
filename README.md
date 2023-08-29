@@ -5,6 +5,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 
   ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
+  ![Fkask](https://img.shields.io/badge/-Flask-COLOR?style=for-the-badge&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-COLOR?style=for-the-badge&logo=fastapi)
+  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
 
 
 
