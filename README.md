@@ -23,4 +23,4 @@
 
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&rank_icon=github&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&rank_icon=github&bg_color=30,e96443,904e95&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical)
