@@ -4,7 +4,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python&logoColor=5c96ed)
+  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
 
 
 
