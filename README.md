@@ -15,9 +15,9 @@
   ![Docker](https://img.shields.io/badge/-Docker-1de4f2?style=flat-square&logo=docker)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-COLOR?style=flat-square&logo=postgresql)
   ![Redis](https://img.shields.io/badge/-Redis-fa6475?style=flat-square&logo=redis)
-  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-COLOR?style=flat-square&logo=sqlalchemy)
-  ![Alembic](https://img.shields.io/badge/-Alembic-COLOR?style=flat-square&logo=Alembic)
-  ![Pydantic](https://img.shields.io/badge/-Pydantic-COLOR?style=flat-square&logo=Pydantic)
+  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-3ffc5f?style=flat-square&logo=sqlalchemy)
+  ![Alembic](https://img.shields.io/badge/-Alembic-3ffc5f?style=flat-square&logo=Alembic)
+  ![Pydantic](https://img.shields.io/badge/-Pydantic-3ffc5f?style=flat-square&logo=Pydantic)
   
 
 
