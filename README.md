@@ -23,5 +23,5 @@
 
 
 ### :fire: My Stats :
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
