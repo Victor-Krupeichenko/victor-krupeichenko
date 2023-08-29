@@ -14,6 +14,7 @@
   ![Postgresql](https://img.shields.io/badge/-Postgresql-COLOR?style=for-the-badge&logo=postgresql)
   ![Redis](https://img.shields.io/badge/-Redis-COLOR?style=for-the-badge&logo=redis)
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-COLOR?style=for-the-badge&logo=sqlalchemy)
+  ![Celery](https://img.shields.io/badge/-Celery-COLOR?style=for-the-badge&logo=Celery)
   ![Git](https://img.shields.io/badge/-Git-COLOR?style=for-the-badge&logo=git)
 
 
