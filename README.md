@@ -22,7 +22,6 @@
 
 
 
-Follow Me
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&show_icons=true&theme=radical)
 
