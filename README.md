@@ -10,7 +10,8 @@
   ![Django](https://img.shields.io/badge/-Django-COLOR?style=for-the-badge&logo=django)
   ![Django Rest](https://img.shields.io/badge/-DjangoRest-COLOR?style=for-the-badge&logo=django-rest)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-COLOR?style=for-the-badge&logo=bootstrap)
-  ![Python](https://img.shields.io/badge/-Python-COLOR?style=for-the-badge&logo=python)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-COLOR?style=for-the-badge&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/-Redis-COLOR?style=for-the-badge&logo=redis)
 
 
 
