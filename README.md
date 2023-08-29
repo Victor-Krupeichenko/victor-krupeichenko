@@ -4,7 +4,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-  ![Python](https://img.shields.io/badge/-Python-73a9fa?style=flat-square&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-d6f263?style=flat-square&logo=python)
   ![Fkask](https://img.shields.io/badge/-Flask-COLOR?style=flat-square&logo=flask)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-COLOR?style=flat-square&logo=fastapi)
   ![Django](https://img.shields.io/badge/-Django-COLOR?style=flat-square&logo=django)
