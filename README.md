@@ -20,5 +20,6 @@
 
 Follow Me
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-krupeichenko&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
 
