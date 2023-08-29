@@ -16,7 +16,7 @@
   ![Redis](https://img.shields.io/badge/-Redis-f78b97?style=flat-square&logo=redis)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-1de4f2?style=flat-square&logo=postgresql)  
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-3ffc5f?style=flat-square&logo=sqlalchemy)
-  ![Alembic](https://img.shields.io/badge/-Alembic-3ffc5f?style=flat-square&logo=Alembic)
+  ![Alembic](https://img.shields.io/badge/-Alembic-80cced?style=flat-square&logo=Alembic)
   ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic)
   
 
