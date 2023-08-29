@@ -10,7 +10,7 @@
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
   ![Django Rest](https://img.shields.io/badge/-DjangoRest-092E20?style=flat-square&logo=django-rest)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-COLOR?style=flat-square&logo=bootstrap)
-  ![Celery](https://img.shields.io/badge/-Celery-74cf3c?style=flat-square&logo=Celery)  
+  ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery)  
   ![Docker](https://img.shields.io/badge/-Docker-1de4f2?style=flat-square&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-COLOR?style=flat-square&logo=git)
   ![Redis](https://img.shields.io/badge/-Redis-fa6475?style=flat-square&logo=redis)
