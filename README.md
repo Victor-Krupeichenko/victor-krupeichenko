@@ -5,8 +5,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
   ![Python](https://img.shields.io/badge/-Python-f1f518?style=flat-square&logo=python)
-  ![Fkask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+  ![Fkask](https://img.shields.io/badge/-Flask-74cf3c?style=flat-square&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-74cf3c?style=flat-square&logo=fastapi)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
   ![Django Rest](https://img.shields.io/badge/-DjangoRest-092E20?style=flat-square&logo=django-rest)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-COLOR?style=flat-square&logo=bootstrap)
