@@ -27,4 +27,4 @@
 
 ## Codewars :
 ![Codewars](https://github.r2v.ch/codewars?user=Victor-Krupeichenko&name=true)
-[![Codewars](https://github.r2v.ch/codewars?user=Victor-Krupeichenko&name=true)](LINK)
+![Codewars](https://github.r2v.ch/codewars?user=Victor-Krupeichenko&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
