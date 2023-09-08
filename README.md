@@ -26,9 +26,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical)
 
 ## Codewars :
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=Victor-Krupeichenko" />
-    </a>
-</p>
-
+![Codewars](https://github.r2v.ch/codewars?user=Victor-Krupeichenko&theme=gradient)
