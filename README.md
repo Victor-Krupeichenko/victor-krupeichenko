@@ -27,5 +27,5 @@
 ### Codewars:
 [![codewars](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)
 ### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Krupeichenko&bg_color=30,e96443,904e95&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Krupeichenko&title_color=fff&bg_color=30,e96443,904e95&theme=radical)
 
