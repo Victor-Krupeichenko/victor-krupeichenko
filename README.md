@@ -27,4 +27,4 @@
 ### Codewars:
 [![codewars](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victor-krupeichenko)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/github/Victor-Krupeichenko/victor-krupeichenko.svg)](https://wakatime.com/badge/github/Victor-Krupeichenko/victor-krupeichenko)
