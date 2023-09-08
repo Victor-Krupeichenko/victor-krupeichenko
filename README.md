@@ -28,4 +28,4 @@
 [![codewars](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)
 
 [![wakatime](https://wakatime.com/badge/user/9004a4bd-6557-45e5-8935-f06626a7f5e3.svg)](https://wakatime.com/@9004a4bd-6557-45e5-8935-f06626a7f5e3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Krupeichenko&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Krupeichenko)
