@@ -18,14 +18,3 @@
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-ba7378?style=flat-square&logo=sqlalchemy)
   ![Alembic](https://img.shields.io/badge/-Alembic-80cced?style=flat-square&logo=Alembic)
   ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic)
-  
-
-
-### :fire: My Stats:
-### GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-krupeichenko&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical)
-### Codewars:
-[![codewars](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)](https://www.codewars.com/users/Victor-Krupeichenko/badges/large)
-### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Krupeichenko&title_color=fff&bg_color=30,e96443,904e95&theme=radical)
-
