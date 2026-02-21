@@ -21,4 +21,4 @@
 
 
 
-  https://www.codewars.com/users/Victor-Krupeichenko/badges/large
+  !(https://www.codewars.com/users/Victor-Krupeichenko/badges/large)
