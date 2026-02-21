@@ -20,4 +20,4 @@
   ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic)
 
 
-[![Codewars Badge](https://www.codewars.com/badges/large)](https://www.codewars.com)
+ [![Codewars Badge](https://www.codewars.com/badges/large)](https://www.codewars.com)
