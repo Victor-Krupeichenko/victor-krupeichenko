@@ -18,3 +18,7 @@
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-ba7378?style=flat-square&logo=sqlalchemy)
   ![Alembic](https://img.shields.io/badge/-Alembic-80cced?style=flat-square&logo=Alembic)
   ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic)
+
+
+
+  https://www.codewars.com/users/Victor-Krupeichenko/badges/large
