@@ -20,5 +20,4 @@
   ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic)
 
 
-
-  !(https://www.codewars.com/users/Victor-Krupeichenko/badges/large)
+[![Codewars Badge](https://www.codewars.com/badges/large)](https://www.codewars.com)
